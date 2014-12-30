@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_desc">get ALL systems and other apps notifications</string>
+    <string name="notification_from">Notification from %s.</string>
+
+</resources>
